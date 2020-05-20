@@ -3,3 +3,5 @@ WeatherApp.iml
 target/
 out/
 src/test/
+src/main/resources
+src/main/java/java/JSONReader/GeocodingAPI/date
