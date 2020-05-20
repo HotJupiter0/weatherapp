@@ -1,0 +1,5 @@
+.idea/
+WeatherApp.iml
+target/
+out/
+src/test/
